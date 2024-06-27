@@ -1,0 +1,23 @@
+/* AdminPage.css */
+
+.mt-5 {
+    margin-top: 3rem !important;
+  }
+  
+  .mb-4 {
+    margin-bottom: 1.5rem !important;
+  }
+  
+  .text-center {
+    text-align: center !important
+  } 
+  .full-background {
+    background-image: url('/src/Pages/Images/CT-bg.jpeg'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  } 
